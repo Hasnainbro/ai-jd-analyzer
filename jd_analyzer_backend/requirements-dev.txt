@@ -1,0 +1,26 @@
+# Development dependencies
+pytest==7.4.3
+pytest-django==4.7.0
+pytest-cov==4.1.0
+factory-boy==3.3.0
+faker==20.1.0
+
+# Code quality
+black==23.11.0
+isort==5.12.0
+flake8==6.1.0
+mypy==1.7.1
+django-stubs==4.2.6
+
+# Documentation
+sphinx==7.2.6
+sphinx-rtd-theme==1.3.0
+
+# Debugging
+ipdb==0.13.13
+django-debug-toolbar==4.2.0
+
+# Testing utilities
+coverage==7.3.2
+pytest-mock==3.12.0
+responses==0.24.1
