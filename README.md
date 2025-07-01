@@ -11,7 +11,7 @@ An AI-powered web platform that helps candidates analyze job descriptions and su
 ## Tech Stack
 - Django REST Framework
 - React + Tailwind
-- OpenAI / Gemini API
+- OpenRouter API - You can generate and get access for this API for free from OpenRouters website, choose the model you like, append the model's name in /views.py and you can generate the responses.
 - PDF / Text analysis
 
 ## Setup
